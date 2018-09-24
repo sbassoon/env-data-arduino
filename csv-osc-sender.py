@@ -13,13 +13,13 @@ step_count = 0
 def initCSV(index):
     fileName = ""
     if index == 0:
-        fileName = "./data-logs/saxnaes-ricklundgaarden-2018.04.30-13.54.00-64.971255,15.355695.csv"
+        fileName = "" #filename
     elif index == 1:
-        fileName = "./data-logs/marsfjaellet-2018.05.03-16.47.00-65.029232,15.381562.csv"
+        fileName = "" #filename
     elif index == 2:
-        fileName = "./data-logs/goeteborg-apartment-2018.05.08-21.42.45-57.699341,11.965619.csv"
+        fileName = "" #filename
     elif index == 3:
-        fileName = "./data-logs/gamleby-tingshus-2018.05.23-17.38.00-57.899730,16.407299.csv"
+        fileName = "" #filename ./data-logs/filename
     else:
         fileName = "noname"
 

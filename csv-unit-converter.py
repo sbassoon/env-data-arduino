@@ -2,7 +2,7 @@ import time
 import math
 import csv
 
-fileName = "goeteborg-apartment-2018.05.08-21.42.45-57.699341,11.965619.csv"
+fileName = "" #filename
 
 geoCoords = [57.699341,11.965619]
 
